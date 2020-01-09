@@ -26,6 +26,8 @@ CONFIG = (
     Source('CSHC', 'http://export.arxiv.org/rss/cs.HC'),
     # Graphics
     Source('CSGR', 'http://export.arxiv.org/rss/cs.GR'),
+    # Audio and Speech Processing
+    Source('EESSAS', 'http://export.arxiv.org/rss/eess.AS'),
 )
 
 
